@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision
+END
+CollDetectInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/fp9/src/jiglib/collision/CollDetectInfo.as
+END
+CollPointInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/collision/CollPointInfo.as
+END
+CollDetectCapsulePlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectCapsulePlane.as
+END
+CollisionSystem.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollisionSystem.as
+END
+CollDetectSphereSphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectSphereSphere.as
+END
+CollDetectSphereBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectSphereBox.as
+END
+CollDetectFunctor.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/trunk/fp9/src/jiglib/collision/CollDetectFunctor.as
+END
+CollDetectBoxBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectBoxBox.as
+END
+CollDetectSphereCapsule.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectSphereCapsule.as
+END
+CollisionInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/collision/CollisionInfo.as
+END
+CollDetectCapsuleBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectCapsuleBox.as
+END
+CollDetectSpherePlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectSpherePlane.as
+END
+CollDetectBoxPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectBoxPlane.as
+END
+CollDetectCapsuleCapsule.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/collision/CollDetectCapsuleCapsule.as
+END

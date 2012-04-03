@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/geometry
+END
+JSphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/fp9/src/jiglib/geometry/JSphere.as
+END
+JBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/fp9/src/jiglib/geometry/JBox.as
+END
+JRay.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/geometry/JRay.as
+END
+JCapsule.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/geometry/JCapsule.as
+END
+JPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/geometry/JPlane.as
+END
+JSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/66/trunk/fp9/src/jiglib/geometry/JSegment.as
+END
